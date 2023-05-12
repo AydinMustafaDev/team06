@@ -9,7 +9,7 @@ ilişkilendirmek için kullanılır
 - 2. git add . --> Working space'deki (yani yerel) dosyadarımı staging area'ya
 (yani commitlemek için beklenen yer) gönderir
 - 3. git commit -m "mesaj" --> Staging area'dan commit stora dosyalarımı göndermek için kullanılır
-(Commit yani version yani sürüm oluşmuş olur
+(Commit yani version yani sürüm oluşmuş olur)
 - 4. git push --> Uzak repo'ya (GitHub) göndermek için kullandığımız kod.
 Yalnız git push komutunu direk kullanmak istersek bir kere
                 git remote add origin - github'daki oluşturduğumuz repo'nun adresi -
@@ -102,5 +102,6 @@ git push -u origin master
    git stash pop                  # Commit yapilmamis degisikliklere geri don
    git stash list                 # Commit yapilmamis degisiklikleri listele
    git stash drop                 # Commit yapilmamis degisiklikleri kaldır
+   fdnvkdfnv.kdvdfvmdç
      */
 }
